@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "latinverb_stem_deriver"
   spec.version       = LatinverbStemDeriver::VERSION
   spec.authors       = ["Steven G. Harms"]
-  spec.email         = ["sgharms@stevengharms.com"]
+  spec.email         = ["steven.harms@gmail.com"]
   spec.summary       = %q{Extracts a "stem" from a LatinVerb}
   spec.homepage      = ""
   spec.license       = "MIT"
